@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-10-04T18:02:17 EDT" name="Default suite" finished-at="2020-10-04T18:02:58 EDT" duration-ms="40762">
+  <suite started-at="2020-10-04T15:05:54 EDT" name="Default suite" finished-at="2020-10-04T15:06:17 EDT" duration-ms="23549">
     <groups>
     </groups>
-    <test started-at="2020-10-04T18:02:17 EDT" name="Default test" finished-at="2020-10-04T18:02:58 EDT" duration-ms="40762">
+    <test started-at="2020-10-04T15:05:54 EDT" name="Default test" finished-at="2020-10-04T15:06:17 EDT" duration-ms="23549">
       <class name="SeleniumTestPackage.DataDrivenLoginTest">
-        <test-method signature="yahooSignUp(java.lang.String, java.lang.String)[pri:0, instance:SeleniumTestPackage.DataDrivenLoginTest@4d5650ae]" started-at="2020-10-04T18:02:17 EDT" name="yahooSignUp" data-provider="dataInputValue" finished-at="2020-10-04T18:02:42 EDT" duration-ms="25406" status="PASS">
+        <test-method signature="yahooSignUp(java.lang.String, java.lang.String)[pri:0, instance:SeleniumTestPackage.DataDrivenLoginTest@e15b7e8]" started-at="2020-10-04T15:05:54 EDT" name="yahooSignUp" data-provider="dataInputValue" finished-at="2020-10-04T15:06:04 EDT" duration-ms="9642" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,7 +23,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- yahooSignUp -->
-        <test-method signature="yahooSignUp(java.lang.String, java.lang.String)[pri:0, instance:SeleniumTestPackage.DataDrivenLoginTest@4d5650ae]" started-at="2020-10-04T18:02:42 EDT" name="yahooSignUp" data-provider="dataInputValue" finished-at="2020-10-04T18:02:50 EDT" duration-ms="7645" status="PASS">
+        <test-method signature="yahooSignUp(java.lang.String, java.lang.String)[pri:0, instance:SeleniumTestPackage.DataDrivenLoginTest@e15b7e8]" started-at="2020-10-04T15:06:04 EDT" name="yahooSignUp" data-provider="dataInputValue" finished-at="2020-10-04T15:06:10 EDT" duration-ms="6943" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -39,7 +39,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- yahooSignUp -->
-        <test-method signature="yahooSignUp(java.lang.String, java.lang.String)[pri:0, instance:SeleniumTestPackage.DataDrivenLoginTest@4d5650ae]" started-at="2020-10-04T18:02:50 EDT" name="yahooSignUp" data-provider="dataInputValue" finished-at="2020-10-04T18:02:58 EDT" duration-ms="7556" status="PASS">
+        <test-method signature="yahooSignUp(java.lang.String, java.lang.String)[pri:0, instance:SeleniumTestPackage.DataDrivenLoginTest@e15b7e8]" started-at="2020-10-04T15:06:10 EDT" name="yahooSignUp" data-provider="dataInputValue" finished-at="2020-10-04T15:06:17 EDT" duration-ms="6883" status="PASS">
           <params>
             <param index="0">
               <value>
